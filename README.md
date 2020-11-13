@@ -1,13 +1,3 @@
 # Chat cifrado de extremo a extremo
-Aplicación distribuida entre cliente-servidor en Java que permite a dos canales de comunicación el envió y la recepción de mensajes encriptados con la respectiva opción de des-encriptado.
+Aplicación distribuida entre cliente-servidor en Java que permite a dos canales de comunicación el envió y la recepción de mensajes encriptados con la respectiva opción de des-encriptado.La clave para realizar la encriptación se genera usando Diffie-Hellman
 
-## Enlace de interés:
-Para más información sobre el chat cifrado de extremo a extremo, revisar la siguiente presentación: 
-
-http://www.slideshare.net/DanielGmez3/chat-cifrado-de-extremo-a-extremo
-
-## Desarrollador:
-
-Daniel Gomez Jaramillo 
-
-daniel.gomez@ucuenca.edu.ec
